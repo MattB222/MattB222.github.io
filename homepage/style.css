@@ -1,0 +1,60 @@
+
+
+h1{
+
+ font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+   background-color: black;
+  color: white;
+  padding: 5px;
+
+
+}
+
+
+body{
+
+
+}
+
+h2{
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+}
+p{
+    font-family: "Tinos", serif;
+  font-weight: 400;
+  font-style: normal;
+
+
+}
+
+.navbar .nav-link.active{
+    color: white;
+
+font-family: "BBH Bartle", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.nav-link .disabled {
+ color: ;
+ font-family: "Rubik Spray Paint", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+}
+
+.navbar-brand {
+
+     color: white;
+      font-family: "Bungee", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
